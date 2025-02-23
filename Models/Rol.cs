@@ -8,6 +8,7 @@ namespace CoreBusiness
 {
     public class Rol
     {
+
         public int RolID { get; set; }
         public string Descripcion { get; set; }
     }
