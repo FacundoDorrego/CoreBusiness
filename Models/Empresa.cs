@@ -15,7 +15,7 @@ namespace CoreBusiness
         public int EmpresaID { get; set; }
         public string Nombre { get; set; }
         public DateTime FechaCreacion { get; set; }
-        public int UsuarioID { get; set; }
+        public string UsuarioID { get; set; }
         public bool Activa { get; set; }
     }
 

@@ -18,7 +18,7 @@ namespace CoreBusiness
         public DateTime FechaMovimiento { get; set; }
         public string TipoMovimiento { get; set; }
         public string Observaciones { get; set; }
-        public int UsuarioID { get; set; }
+        public string UsuarioID { get; set; }
         public int EmpresaID { get; set; }
     }
 }
