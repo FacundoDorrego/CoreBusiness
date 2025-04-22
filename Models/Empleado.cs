@@ -15,7 +15,7 @@ namespace CoreBusiness
         public int EmpleadoID { get; set; }
         public Usuario Usuario { get; set; }
         public Empresa Empresa { get; set; }
-
+        public bool Activo { get; set; }
 
         public Empleado(Usuario auxUsu, Empresa auxEmpre)
         {

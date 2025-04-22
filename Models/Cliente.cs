@@ -6,23 +6,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace CoreBusiness
 {
-    public class Producto
+    public class Cliente
     {
         [Key]  // Indica que es la clave primaria
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]  // Marca como autoincremental
-        public int ProductoID { get; set; }
-        public string Descripcion { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int ClienteID { get; set; }
         public string Nombre { get; set; }
-        public decimal Precio { get; set; }
-        public int Stock { get; set; }
-        public int CategoriaID { get; set; }
-        public int ProveedorID { get; set; }
-        public int EmpresaID { get; set; }
-        public int MarcaID { get; set; }
-        public bool Activo { get; set; }
-    }
+        public string Telefono { get; set; }
+        public string Direccion { get; set; }
+        public string Email { get; set; }
 
+        public int EmpresaID { get; set; }
+        public bool Activo { get; set; }
+        public DateTime FechaAlta { get; set; }
+    }
 }

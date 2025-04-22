@@ -15,7 +15,7 @@ namespace CoreBusiness
 
         [ForeignKey("Rol")]  // Relación con la tabla 'Rol'
         public int RolID { get; set; }
-
+        public bool Activo { get; set; }
 
 
         public Usuario(string nombre, int rol)

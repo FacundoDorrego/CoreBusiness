@@ -18,6 +18,8 @@ namespace CoreBusiness.Data
         public DbSet<Rol> Roles { get; set; }
         public DbSet<Venta> Ventas { get; set; }
         public DbSet<MovimientoInventario> MovimientosInventario { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Marca> Marcas { get; set; }
     }
 
 }
