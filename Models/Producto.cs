@@ -22,6 +22,7 @@ namespace CoreBusiness
         public int ProveedorID { get; set; }
         public int EmpresaID { get; set; }
         public int MarcaID { get; set; }
+        public string SKU { get; set; }
         public bool Activo { get; set; }
     }
 
