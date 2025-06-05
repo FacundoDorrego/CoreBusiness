@@ -39,4 +39,10 @@ Frontend en React consumiendo API propia.
 - [Repositorio GitHub](https://github.com/FacundoDorrego/CoreBusiness)  
 
 ---
+## Autor
+
+**Facundo Nehuen Dorrego**  
+Estudiante de UTN FRGP - Tecnicatura en Programación  
+📧 dorregofacundo28@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/facundo-nehuen-dorrego-380ba0239/)  
 
