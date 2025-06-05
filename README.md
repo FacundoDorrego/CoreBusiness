@@ -1,7 +1,7 @@
 
 # CoreBusiness | 2025
 
-Sistema ERP para Gestión de Empresas y Stock
+Sistema ERP SAAS (en proceso)
 
 ---
 
