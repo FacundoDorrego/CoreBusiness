@@ -26,8 +26,8 @@ Frontend en React consumiendo API propia.
 
 ## Estructura del repositorio
 
-- `[backend](https://github.com/FacundoDorrego/CoreBusinessAPI)` - API REST con .NET 8  
-- `[frontend](https://github.com/FacundoDorrego/CoreBusinessReact)` - Aplicación React con Material-UI  
+- [backend](https://github.com/FacundoDorrego/CoreBusinessAPI) - API REST con .NET 8  
+- [frontend](https://github.com/FacundoDorrego/CoreBusinessReact) - Aplicación React con Material-UI  
  
 
 ---
