@@ -35,8 +35,7 @@ Frontend en React consumiendo API propia.
 
 ## Enlaces útiles
 
-- [Presentación en Notion](https://www.notion.so/CoreBusiness-ERP-SAAS-1a535e4a0fbd80fb9367c26fe599da18?source=copy_link)  
-- [Repositorio GitHub](https://github.com/FacundoDorrego/CoreBusiness)  
+- [Workspace de desarrollo en Notion](https://www.notion.so/CoreBusiness-ERP-SAAS-1a535e4a0fbd80fb9367c26fe599da18?source=copy_link)
 
 ---
 ## Autor
